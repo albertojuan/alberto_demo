@@ -1,0 +1,3 @@
+NODE new_pipe_node
+SQL >
+    SELECT * FROM analytics_pages_mv
