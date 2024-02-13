@@ -1,1 +1,1 @@
-# alberto_demo
+# Data project structure
