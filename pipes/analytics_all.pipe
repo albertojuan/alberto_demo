@@ -1,0 +1,5 @@
+TOKEN "analytics_all_endpoint_read_4261" READ
+
+NODE analytics_all_0
+SQL >
+    SELECT * FROM analytics_events
