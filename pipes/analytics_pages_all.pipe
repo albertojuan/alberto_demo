@@ -1,0 +1,3 @@
+NODE untitled_pipe_7745_0
+SQL >
+    SELECT * FROM analytics_pages_mv
