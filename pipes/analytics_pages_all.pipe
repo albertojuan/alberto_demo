@@ -1,0 +1,5 @@
+TOKEN "analytics_pages_all_endpoint_read_5475" READ
+
+NODE untitled_pipe_7745_0
+SQL >
+    SELECT * FROM analytics_pages_mv
